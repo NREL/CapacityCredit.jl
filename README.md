@@ -1,5 +1,7 @@
 # CapacityCredit
 
+_Note: This package has been consolidated into https://github.com/NREL/PRAS. This repository is for archival purposes only._
+
 To assess the equivalent firm capacity a new resource added
 to the system in region 3:
 
